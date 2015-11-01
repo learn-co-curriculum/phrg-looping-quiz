@@ -20,8 +20,7 @@ puts "Hello, world!"
 puts "Hello, world!"
 ```
 
-A. 
-
+(X)
 ```ruby
 counter = 0
 
@@ -32,8 +31,7 @@ loop do
 end
 ``` 
 
-B.
-
+( )
 ```ruby
 loop do
   puts "hi"
@@ -41,18 +39,12 @@ loop do
 end
 ```  
 
-C.
-
+( )
 ```ruby
 loop do
   puts "hi"
 end
 ```  
-
-(X) A
-( ) B
-( ) C
-
 
 ?: What will this loop do?
 
@@ -79,5 +71,7 @@ end
 
 (X) true
 ( ) false
+
+???
 
 
