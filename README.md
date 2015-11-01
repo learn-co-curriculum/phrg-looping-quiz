@@ -1,4 +1,5 @@
 #Looping Quiz
+
 ## Objectives
 
 1. Use the loop keyword
@@ -10,7 +11,7 @@
 
 # Quiz
 
-?: Here is a repeated list of puts, how would you repeat this with loop/break 100 times?
+?: Here is a repeated list of `puts` statements. 
 
 ```ruby
 puts "Hello, world!"
@@ -19,6 +20,8 @@ puts "Hello, world!"
 puts "Hello, world!"
 puts "Hello, world!"
 ```
+
+How would you repeat this with loop/break 100 times?
 
 (X)
 ```ruby
@@ -30,7 +33,6 @@ loop do
   break if counter==100
 end
 ``` 
-
 ( )
 ```ruby
 loop do
@@ -38,7 +40,6 @@ loop do
   break if counter==100
 end
 ```  
-
 ( )
 ```ruby
 loop do
