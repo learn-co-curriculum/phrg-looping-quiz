@@ -56,7 +56,7 @@ while x < 10 do
 end
 ```
 
-( ) puts "so many loops" one time ( ) puts "so many loops" 10 times (X) puts "so many loops" infinitely
+( )puts "so many loops" one time ( )puts "so many loops" 10 times (X)puts "so many loops" infinitely
 
 ?: True or False: `puts "Hi"` will never run.
 
@@ -67,7 +67,7 @@ end
 end
 ```
 
-(X) true ( ) false
+(X)true ( )false
 
 ???
 
