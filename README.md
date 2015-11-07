@@ -14,11 +14,11 @@
 ?: Here is a repeated list of `puts` statements. 
 
 ```ruby
-puts "Hello, world!"
-puts "Hello, world!"
-puts "Hello, world!"
-puts "Hello, world!"
-puts "Hello, world!"
+puts "hi"
+puts "hi"
+puts "hi"
+puts "hi"
+puts "hi"
 ```
 
 How would you repeat this with loop/break 100 times?
