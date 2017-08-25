@@ -2,9 +2,9 @@
 
 ## Objectives
 
-1. Use the loop keyword
-2. Use the break keyword 
-3. Use the times keyword
+1. Use the `loop` keyword
+2. Use the `break` keyword 
+3. Use the `times` keyword
 4. Look at a loop and figure out what it will do
 
 ???
@@ -73,4 +73,4 @@ end
 
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/looping-quiz' title='Looping Quiz'>Looping Quiz</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/looping-quiz'>Looping Quiz</a> on Learn.co and start learning to code for free.</p>
