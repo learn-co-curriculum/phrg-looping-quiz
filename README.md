@@ -74,3 +74,4 @@ end
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/looping-quiz'>Looping Quiz</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Looping Quiz</p>
