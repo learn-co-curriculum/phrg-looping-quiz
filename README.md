@@ -74,4 +74,9 @@ end
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/looping-quiz'>Looping Quiz</a> on Learn.co and start learning to code for free.</p>
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-looping-quiz/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-looping-quiz/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Looping Quiz</p>
